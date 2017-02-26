@@ -15,10 +15,10 @@ I have two programas:
 You can modify them and compile them with:
 
   TXT2TIFMOD
-	  gcc txt2tif.c -ltiff -o txt2tif
-
-	  execute: ./txt2tif [fich_img_RGB] 
+  
+  	gcc txt2tif.c -ltiff -o txt2tif
+	execute: ./txt2tif [fich_img_RGB] 
   LUCI8
-
-    gcc -o luci kmeans_imagenes.c -L. -lkmeans -lm
+  
+    	gcc -o luci kmeans_imagenes.c -L. -lkmeans -lm
 	execute: luci [fich_pixels]
