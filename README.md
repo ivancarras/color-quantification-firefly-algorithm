@@ -13,6 +13,7 @@ I have two programas:
 -luci8: this program use the firefly algorithm and k-means for reduce the color of the image to 8 bits per pixel.
 
 You can modify them and compile them with:
+
   TXT2TIFMOD
 	  gcc txt2tif.c -ltiff -o txt2tif
 
