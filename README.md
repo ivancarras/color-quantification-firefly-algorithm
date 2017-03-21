@@ -8,7 +8,7 @@ You need a c compiler and a text editor for choose your configuration of firefli
 The pixels of the image in a txt document, that is to say, you must have the RGB values.
 
 # To prove it
-I have two programas:
+I have two programs:
 -txt2tifmod: this program transform the pixel values to image of format tiff
 -luci8: this program use the firefly algorithm and k-means for reduce the color of the image to 8 bits per pixel.
 
