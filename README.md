@@ -1,3 +1,4 @@
+![alt tag](https://github.com/ivancarras/color-quantification-firefly-algorithm/blob/master/lenna_reduction.PNG)
 # Color quantification using firefly algorithm
 Color quantification using firefly algorithm  
 The objetive of this project is the color image reduction through the firefly algorithm with the k-means. 
@@ -22,3 +23,10 @@ You can modify them and compile them with:
   
     	gcc -o luci kmeans_imagenes.c -L. -lkmeans -lm
 	execute: luci [fich_pixels]
+REDUCTION OF ORIGINAL TO 16 BITS
+![alt tag](https://github.com/ivancarras/color-quantification-firefly-algorithm/blob/master/plane_reduction.PNG)
+![alt tag](https://github.com/ivancarras/color-quantification-firefly-algorithm/blob/master/monkey_reduction.PNG)
+![alt tag](https://github.com/ivancarras/color-quantification-firefly-algorithm/blob/master/lenna_reduction.PNG)
+![alt tag](https://github.com/ivancarras/color-quantification-firefly-algorithm/blob/master/lake_reduction.PNG)
+![alt tag](https://github.com/ivancarras/color-quantification-firefly-algorithm/blob/master/Peppers_reduction.PNG)
+![alt tag](https://github.com/ivancarras/color-quantification-firefly-algorithm/blob/master/blonde_girl_reduction.PNG)
