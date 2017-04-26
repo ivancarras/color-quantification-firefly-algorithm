@@ -24,7 +24,7 @@ You can modify them and compile them with:
   
     	gcc -o luci kmeans_imagenes.c -L. -lkmeans -lm
 	execute: luci [fich_pixels]
-REDUCTION OF ORIGINAL TO 16 BITS
+## REDUCTION OF ORIGINAL TO 16 BITS
 ![alt tag](https://github.com/ivancarras/color-quantification-firefly-algorithm/blob/master/plane_reduction.PNG)
 ![alt tag](https://github.com/ivancarras/color-quantification-firefly-algorithm/blob/master/monkey_reduction.PNG)
 ![alt tag](https://github.com/ivancarras/color-quantification-firefly-algorithm/blob/master/lenna_reduction.PNG)
