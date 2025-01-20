@@ -33,4 +33,4 @@ You can modify them and compile them with:
 ![alt tag](https://github.com/ivancarras/color-quantification-firefly-algorithm/blob/master/blonde_girl_reduction.PNG)
 
 Explanation of the Algorithm
-[A Hybrid Approach for Color Image Quantization Using K-means and Firefly Algorithms ](http://waset.org/publications/6965/a-hybrid-approach-for-color-image-quantization-using-k-means-and-firefly-algorithms)
+[A Hybrid Approach for Color Image Quantization Using K-means and Firefly Algorithms ](https://www.academia.edu/4877188/A_Hybrid_Approach_for_Color_Image_Quantization_Using_K_Means_and_Firefly_Algorithms)
